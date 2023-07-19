@@ -120,10 +120,9 @@
   {
     "_id": "t113",
     "title": "Bubble Blower",
-    "price": 7.99,
+    "price": 72,
     "labels": [
-      "Outdoor",
-      "Battery Powered"
+      "Doll"
     ],
     "createdAt": 1631031813011,
     "inStock": true

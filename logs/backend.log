@@ -40,3 +40,732 @@
 19.7.2023, 20:49:03 - INFO - Server listening on port http://127.0.0.1:3030/
 19.7.2023, 20:49:27 - INFO - Server listening on port http://127.0.0.1:3030/
 19.7.2023, 21:45:51 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 10:00:58 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 19:23:59 - INFO - Server listening on port http://127.0.0.1:3030/
+20.7.2023, 19:45:21 - INFO - server.js loaded...
+20.7.2023, 19:45:21 - INFO - Server is running on port: 3030
+20.7.2023, 19:46:04 - INFO - server.js loaded...
+20.7.2023, 19:46:04 - INFO - Server is running on port: 3030
+20.7.2023, 19:46:38 - ERROR - while finding toy undefined | BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+20.7.2023, 19:46:38 - ERROR - Failed to get toy | BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+20.7.2023, 19:46:42 - ERROR - while finding toy undefined | BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+20.7.2023, 19:46:42 - ERROR - Failed to get toy | BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+20.7.2023, 19:50:11 - INFO - server.js loaded...
+20.7.2023, 19:50:11 - INFO - Server is running on port: 3030
+20.7.2023, 19:50:28 - ERROR - while finding toy undefined | BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+20.7.2023, 19:50:28 - ERROR - Failed to get toy | BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+20.7.2023, 19:51:53 - INFO - server.js loaded...
+20.7.2023, 19:51:53 - INFO - Server is running on port: 3030
+20.7.2023, 20:01:39 - INFO - server.js loaded...
+20.7.2023, 20:01:39 - INFO - Server is running on port: 3030
+20.7.2023, 20:02:46 - INFO - server.js loaded...
+20.7.2023, 20:02:46 - INFO - Server is running on port: 3030
+20.7.2023, 20:03:13 - INFO - Server is running on port: 3030
+20.7.2023, 20:03:13 - INFO - server.js loaded...
+20.7.2023, 20:03:24 - INFO - Server is running on port: 3030
+20.7.2023, 20:03:24 - INFO - server.js loaded...
+20.7.2023, 20:03:26 - INFO - Req was made | /
+20.7.2023, 20:03:26 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+20.7.2023, 20:03:26 - ERROR - cannot find toys | ReferenceError: sort is not defined
+20.7.2023, 20:03:26 - ERROR - Failed to get toys | ReferenceError: sort is not defined
+20.7.2023, 20:03:33 - INFO - server.js loaded...
+20.7.2023, 20:03:33 - INFO - Server is running on port: 3030
+20.7.2023, 20:03:54 - INFO - server.js loaded...
+20.7.2023, 20:03:54 - INFO - Server is running on port: 3030
+20.7.2023, 20:05:13 - INFO - server.js loaded...
+20.7.2023, 20:05:13 - INFO - Server is running on port: 3030
+20.7.2023, 20:05:14 - INFO - server.js loaded...
+20.7.2023, 20:05:14 - INFO - Server is running on port: 3030
+20.7.2023, 20:07:05 - INFO - server.js loaded...
+20.7.2023, 20:07:05 - INFO - Server is running on port: 3030
+20.7.2023, 20:08:25 - INFO - server.js loaded...
+20.7.2023, 20:08:25 - INFO - Server is running on port: 3030
+20.7.2023, 20:09:00 - INFO - server.js loaded...
+20.7.2023, 20:09:00 - INFO - Server is running on port: 3030
+20.7.2023, 20:09:25 - INFO - server.js loaded...
+20.7.2023, 20:09:25 - INFO - Server is running on port: 3030
+20.7.2023, 20:09:55 - INFO - server.js loaded...
+20.7.2023, 20:09:55 - INFO - Server is running on port: 3030
+20.7.2023, 20:09:59 - INFO - Req was made | /
+20.7.2023, 20:09:59 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+20.7.2023, 20:09:59 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+20.7.2023, 20:10:29 - INFO - Req was made | /
+20.7.2023, 20:10:29 - DEBUG - {"title":"fdsa","status":"all","type":"title","direction":"1"}
+20.7.2023, 20:10:29 - DEBUG - Getting Toys | {"title":"fdsa","status":"all","type":"title","direction":"1"}
+20.7.2023, 20:10:31 - INFO - Req was made | /
+20.7.2023, 20:10:31 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+20.7.2023, 20:10:31 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+20.7.2023, 20:10:33 - INFO - Req was made | /
+20.7.2023, 20:10:33 - DEBUG - {"title":"ar","status":"all","type":"title","direction":"1"}
+20.7.2023, 20:10:33 - DEBUG - Getting Toys | {"title":"ar","status":"all","type":"title","direction":"1"}
+20.7.2023, 20:10:34 - INFO - Req was made | /
+20.7.2023, 20:10:34 - DEBUG - {"title":"art","status":"all","type":"title","direction":"1"}
+20.7.2023, 20:10:34 - DEBUG - Getting Toys | {"title":"art","status":"all","type":"title","direction":"1"}
+20.7.2023, 20:10:39 - INFO - Req was made | /
+20.7.2023, 20:10:39 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+20.7.2023, 20:10:39 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+20.7.2023, 20:10:43 - INFO - Req was made | /
+20.7.2023, 20:10:43 - DEBUG - {"title":"","status":"inStock","type":"title","direction":"1"}
+20.7.2023, 20:10:43 - DEBUG - Getting Toys | {"title":"","status":"inStock","type":"title","direction":"1"}
+20.7.2023, 20:11:10 - INFO - Req was made | /
+20.7.2023, 20:11:10 - DEBUG - {"title":"","status":"inStock","labels":["On wheels"],"type":"title","direction":"1"}
+20.7.2023, 20:11:10 - DEBUG - Getting Toys | {"title":"","status":"inStock","labels":["On wheels"],"type":"title","direction":"1"}
+20.7.2023, 20:11:11 - INFO - Req was made | /
+20.7.2023, 20:11:11 - DEBUG - {"title":"","status":"inStock","labels":["On wheels","Box game"],"type":"title","direction":"1"}
+20.7.2023, 20:11:11 - DEBUG - Getting Toys | {"title":"","status":"inStock","labels":["On wheels","Box game"],"type":"title","direction":"1"}
+20.7.2023, 20:11:12 - INFO - Req was made | /
+20.7.2023, 20:11:12 - DEBUG - {"title":"","status":"inStock","labels":["On wheels"],"type":"title","direction":"1"}
+20.7.2023, 20:11:12 - DEBUG - Getting Toys | {"title":"","status":"inStock","labels":["On wheels"],"type":"title","direction":"1"}
+20.7.2023, 20:11:14 - INFO - Req was made | /
+20.7.2023, 20:11:14 - DEBUG - Getting Toys | {"title":"","status":"inStock","type":"title","direction":"1"}
+20.7.2023, 20:11:14 - DEBUG - {"title":"","status":"inStock","type":"title","direction":"1"}
+20.7.2023, 20:11:36 - DEBUG - {"title":"","status":"inStock","labels":["On wheels"],"type":"title","direction":"1"}
+20.7.2023, 20:11:36 - INFO - Req was made | /
+20.7.2023, 20:11:36 - DEBUG - Getting Toys | {"title":"","status":"inStock","labels":["On wheels"],"type":"title","direction":"1"}
+20.7.2023, 20:11:37 - DEBUG - Getting Toys | {"title":"","status":"inStock","labels":["On wheels","Box game"],"type":"title","direction":"1"}
+20.7.2023, 20:11:37 - DEBUG - {"title":"","status":"inStock","labels":["On wheels","Box game"],"type":"title","direction":"1"}
+20.7.2023, 20:11:37 - INFO - Req was made | /
+20.7.2023, 20:11:39 - DEBUG - Getting Toys | {"title":"","status":"inStock","labels":["On wheels"],"type":"title","direction":"1"}
+20.7.2023, 20:11:39 - DEBUG - {"title":"","status":"inStock","labels":["On wheels"],"type":"title","direction":"1"}
+20.7.2023, 20:11:39 - INFO - Req was made | /
+20.7.2023, 20:11:40 - INFO - Req was made | /
+20.7.2023, 20:11:40 - DEBUG - {"title":"","status":"inStock","type":"title","direction":"1"}
+20.7.2023, 20:11:40 - DEBUG - Getting Toys | {"title":"","status":"inStock","type":"title","direction":"1"}
+20.7.2023, 20:11:41 - INFO - Req was made | /
+20.7.2023, 20:11:41 - DEBUG - {"title":"","status":"inStock","labels":["On wheels"],"type":"title","direction":"1"}
+20.7.2023, 20:11:41 - DEBUG - Getting Toys | {"title":"","status":"inStock","labels":["On wheels"],"type":"title","direction":"1"}
+20.7.2023, 20:11:43 - INFO - Req was made | /
+20.7.2023, 20:11:43 - DEBUG - {"title":"","status":"inStock","labels":["On wheels"],"type":"title","direction":"1"}
+20.7.2023, 20:11:43 - DEBUG - Getting Toys | {"title":"","status":"inStock","labels":["On wheels"],"type":"title","direction":"1"}
+20.7.2023, 20:11:43 - INFO - Req was made | /
+20.7.2023, 20:11:43 - DEBUG - Getting Toys | {"title":"","status":"inStock","type":"title","direction":"1"}
+20.7.2023, 20:11:43 - DEBUG - {"title":"","status":"inStock","type":"title","direction":"1"}
+20.7.2023, 20:11:48 - INFO - Req was made | /
+20.7.2023, 20:11:48 - DEBUG - {"title":"","status":"inStock","type":"price","direction":"-1"}
+20.7.2023, 20:11:48 - DEBUG - Getting Toys | {"title":"","status":"inStock","type":"price","direction":"-1"}
+20.7.2023, 20:13:00 - INFO - Req was made | /
+20.7.2023, 20:13:00 - DEBUG - {"title":"","status":"inStock","type":"price","direction":"1"}
+20.7.2023, 20:13:00 - DEBUG - Getting Toys | {"title":"","status":"inStock","type":"price","direction":"1"}
+20.7.2023, 20:13:02 - INFO - Req was made | /
+20.7.2023, 20:13:02 - DEBUG - {"title":"","status":"inStock","type":"createdAt","direction":"1"}
+20.7.2023, 20:13:02 - DEBUG - Getting Toys | {"title":"","status":"inStock","type":"createdAt","direction":"1"}
+20.7.2023, 20:13:05 - INFO - Req was made | /
+20.7.2023, 20:13:05 - DEBUG - Getting Toys | {"title":"","status":"inStock","type":"createdAt","direction":"-1"}
+20.7.2023, 20:13:05 - DEBUG - {"title":"","status":"inStock","type":"createdAt","direction":"-1"}
+20.7.2023, 20:16:12 - INFO - Server is running on port: 3030
+20.7.2023, 20:16:12 - INFO - server.js loaded...
+20.7.2023, 20:16:16 - INFO - Req was made | /
+20.7.2023, 20:16:16 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+20.7.2023, 20:16:16 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+20.7.2023, 20:16:28 - INFO - Req was made | /
+20.7.2023, 20:16:28 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+20.7.2023, 20:16:28 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+20.7.2023, 20:17:55 - INFO - server.js loaded...
+20.7.2023, 20:17:55 - INFO - Server is running on port: 3030
+20.7.2023, 20:18:02 - INFO - Req was made | /
+20.7.2023, 20:18:02 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+20.7.2023, 20:18:02 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+20.7.2023, 20:18:29 - INFO - server.js loaded...
+20.7.2023, 20:18:29 - INFO - Server is running on port: 3030
+20.7.2023, 20:18:31 - INFO - Req was made | /
+20.7.2023, 20:18:31 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+20.7.2023, 20:18:31 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+20.7.2023, 20:18:44 - INFO - server.js loaded...
+20.7.2023, 20:18:44 - INFO - Server is running on port: 3030
+21.7.2023, 22:02:08 - INFO - server.js loaded...
+21.7.2023, 22:02:08 - INFO - Server is running on port: 3030
+21.7.2023, 22:02:20 - INFO - Req was made | /
+21.7.2023, 22:02:20 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:02:20 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:02:21 - INFO - Req was made | /
+21.7.2023, 22:02:22 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:02:22 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:03:21 - INFO - Req was made | /
+21.7.2023, 22:03:21 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:03:21 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:03:37 - INFO - Req was made | /
+21.7.2023, 22:03:37 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:03:37 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:06:01 - INFO - Req was made | /
+21.7.2023, 22:06:01 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:06:01 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:06:34 - INFO - Req was made | /
+21.7.2023, 22:06:34 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:06:34 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:15:30 - INFO - Req was made | /
+21.7.2023, 22:15:30 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:15:30 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:18:18 - INFO - Req was made | /
+21.7.2023, 22:18:18 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:18:18 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:22:45 - INFO - Req was made | /
+21.7.2023, 22:22:45 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:22:45 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:27:55 - INFO - Req was made | /
+21.7.2023, 22:27:55 - DEBUG - {"title":"erwqrwq","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:27:55 - DEBUG - Getting Toys | {"title":"erwqrwq","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:27:58 - DEBUG - {"title":"erwqrwq1","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:27:58 - INFO - Req was made | /
+21.7.2023, 22:27:58 - DEBUG - Getting Toys | {"title":"erwqrwq1","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:28:05 - INFO - Req was made | /
+21.7.2023, 22:28:05 - DEBUG - {"title":"erwqrwq1!","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:28:05 - DEBUG - Getting Toys | {"title":"erwqrwq1!","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:28:06 - INFO - Req was made | /
+21.7.2023, 22:28:06 - DEBUG - {"title":"erwqrwq1","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:28:06 - DEBUG - Getting Toys | {"title":"erwqrwq1","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:28:07 - INFO - Req was made | /
+21.7.2023, 22:28:07 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:28:07 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:31:51 - INFO - Req was made | /
+21.7.2023, 22:31:51 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:31:51 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:31:54 - INFO - Req was made | /
+21.7.2023, 22:31:54 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:31:54 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:32:26 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:32:26 - INFO - Req was made | /
+21.7.2023, 22:32:26 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:35:20 - INFO - Req was made | /
+21.7.2023, 22:35:20 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:35:20 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:35:37 - INFO - Req was made | /
+21.7.2023, 22:35:37 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:35:37 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:36:06 - DEBUG - auth.service - signup with username: dbd, fullname: din ben dor
+21.7.2023, 22:36:06 - DEBUG - auth.route - new account created: {"username":"dbd","password":"$2b$10$4Dp1kDapq8ge9kjeAv1vLu.RyJubwyfGQ7Gv2wdCjFmz303jw5MUm","fullname":"din ben dor","score":0,"_id":"64bade2607bfc91c01d49bb5"}
+21.7.2023, 22:36:06 - DEBUG - auth.service - login with username: dbd
+21.7.2023, 22:36:42 - DEBUG - auth.service - login with username: dbd
+21.7.2023, 22:37:13 - DEBUG - auth.service - login with username: dbd
+21.7.2023, 22:37:13 - ERROR - Failed to Login Error: Invalid username or password
+21.7.2023, 22:37:13 - DEBUG - auth.service - login with username: dbd
+21.7.2023, 22:37:13 - DEBUG - auth.service - login with username: dbd
+21.7.2023, 22:37:13 - ERROR - Failed to Login Error: Invalid username or password
+21.7.2023, 22:37:13 - ERROR - Failed to Login Error: Invalid username or password
+21.7.2023, 22:37:13 - ERROR - Failed to Login Error: Invalid username or password
+21.7.2023, 22:37:13 - INFO - Req was made | /
+21.7.2023, 22:37:13 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:37:13 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:38:52 - DEBUG - auth.service - login with username: sdfsadf
+21.7.2023, 22:38:52 - ERROR - Failed to Login Error: Invalid username or password
+21.7.2023, 22:38:52 - INFO - Req was made | /
+21.7.2023, 22:38:52 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:38:52 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:39:35 - DEBUG - auth.service - login with username: dbd
+21.7.2023, 22:39:35 - INFO - User login:  | {"_id":"64bade2607bfc91c01d49bb5","username":"dbd","fullname":"din ben dor","score":0}
+21.7.2023, 22:39:40 - DEBUG - auth.service - login with username: dbd
+21.7.2023, 22:39:40 - INFO - User login:  | {"_id":"64bade2607bfc91c01d49bb5","username":"dbd","fullname":"din ben dor","score":0}
+21.7.2023, 22:41:00 - DEBUG - auth.service - login with username: dbd
+21.7.2023, 22:41:00 - ERROR - Failed to Login Error: Invalid username or password
+21.7.2023, 22:41:00 - INFO - Req was made | /
+21.7.2023, 22:41:00 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:41:00 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:41:29 - DEBUG - auth.service - login with username: sdafasd
+21.7.2023, 22:41:29 - ERROR - Failed to Login Error: Invalid username or password
+21.7.2023, 22:41:29 - INFO - Req was made | /
+21.7.2023, 22:41:29 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:41:29 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:46:35 - INFO - Req was made | /
+21.7.2023, 22:46:35 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:46:35 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:46:47 - DEBUG - auth.service - login with username: fdsafdsaf
+21.7.2023, 22:46:47 - ERROR - Failed to Login Error: Invalid username or password
+21.7.2023, 22:46:47 - INFO - Req was made | /
+21.7.2023, 22:46:47 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:46:47 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:47:36 - INFO - Req was made | /
+21.7.2023, 22:47:36 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:47:36 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:48:41 - DEBUG - auth.service - login with username: dbd
+21.7.2023, 22:48:42 - INFO - User login:  | {"_id":"64bade2607bfc91c01d49bb5","username":"dbd","fullname":"din ben dor","score":0}
+21.7.2023, 22:48:43 - DEBUG - auth.service - login with username: dbd
+21.7.2023, 22:48:43 - INFO - User login:  | {"_id":"64bade2607bfc91c01d49bb5","username":"dbd","fullname":"din ben dor","score":0}
+21.7.2023, 22:48:43 - DEBUG - auth.service - login with username: dbd
+21.7.2023, 22:48:43 - INFO - User login:  | {"_id":"64bade2607bfc91c01d49bb5","username":"dbd","fullname":"din ben dor","score":0}
+21.7.2023, 22:49:34 - DEBUG - auth.service - login with username: fds
+21.7.2023, 22:49:34 - ERROR - Failed to Login Error: Invalid username or password
+21.7.2023, 22:49:34 - INFO - Req was made | /
+21.7.2023, 22:49:34 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:49:34 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:49:42 - DEBUG - auth.service - login with username: dbd
+21.7.2023, 22:49:42 - INFO - User login:  | {"_id":"64bade2607bfc91c01d49bb5","username":"dbd","fullname":"din ben dor","score":0}
+21.7.2023, 22:49:43 - DEBUG - auth.service - login with username: dbd
+21.7.2023, 22:49:44 - INFO - User login:  | {"_id":"64bade2607bfc91c01d49bb5","username":"dbd","fullname":"din ben dor","score":0}
+21.7.2023, 22:50:00 - DEBUG - auth.service - login with username: tree
+21.7.2023, 22:50:00 - ERROR - Failed to Login Error: Invalid username or password
+21.7.2023, 22:50:01 - INFO - Req was made | /
+21.7.2023, 22:50:01 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:50:01 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:51:13 - DEBUG - auth.service - login with username: dbd
+21.7.2023, 22:51:14 - INFO - User login:  | {"_id":"64bade2607bfc91c01d49bb5","username":"dbd","fullname":"din ben dor","score":0}
+21.7.2023, 22:51:15 - DEBUG - auth.service - login with username: dbd
+21.7.2023, 22:51:15 - INFO - User login:  | {"_id":"64bade2607bfc91c01d49bb5","username":"dbd","fullname":"din ben dor","score":0}
+21.7.2023, 22:51:27 - DEBUG - auth.service - login with username: dbd
+21.7.2023, 22:51:27 - INFO - User login:  | {"_id":"64bade2607bfc91c01d49bb5","username":"dbd","fullname":"din ben dor","score":0}
+21.7.2023, 22:51:28 - DEBUG - auth.service - login with username: dbd
+21.7.2023, 22:51:28 - INFO - User login:  | {"_id":"64bade2607bfc91c01d49bb5","username":"dbd","fullname":"din ben dor","score":0}
+21.7.2023, 22:51:32 - DEBUG - auth.service - login with username: dbd
+21.7.2023, 22:51:33 - INFO - User login:  | {"_id":"64bade2607bfc91c01d49bb5","username":"dbd","fullname":"din ben dor","score":0}
+21.7.2023, 22:51:52 - DEBUG - auth.service - login with username: dbd
+21.7.2023, 22:51:53 - INFO - User login:  | {"_id":"64bade2607bfc91c01d49bb5","username":"dbd","fullname":"din ben dor","score":0}
+21.7.2023, 22:53:03 - INFO - Req was made | /
+21.7.2023, 22:53:03 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:53:03 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:53:09 - DEBUG - auth.service - login with username: rewqreqw
+21.7.2023, 22:53:09 - ERROR - Failed to Login Error: Invalid username or password
+21.7.2023, 22:53:09 - INFO - Req was made | /
+21.7.2023, 22:53:09 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:53:09 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:54:03 - INFO - Req was made | /
+21.7.2023, 22:54:03 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:54:03 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:54:08 - DEBUG - auth.service - login with username: ewq
+21.7.2023, 22:54:08 - ERROR - Failed to Login Error: Invalid username or password
+21.7.2023, 22:54:08 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:54:08 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:54:08 - INFO - Req was made | /
+21.7.2023, 22:55:45 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:55:45 - INFO - Req was made | /
+21.7.2023, 22:55:45 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:56:57 - INFO - Req was made | /
+21.7.2023, 22:56:57 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:56:57 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 22:59:53 - DEBUG - auth.service - login with username: dbd
+21.7.2023, 22:59:53 - INFO - User login:  | {"_id":"64bade2607bfc91c01d49bb5","username":"dbd","fullname":"din ben dor","score":0}
+21.7.2023, 23:16:12 - INFO - Req was made | /
+21.7.2023, 23:16:12 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 23:16:12 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 23:16:22 - DEBUG - auth.service - login with username: dfgsaf
+21.7.2023, 23:16:22 - ERROR - Failed to Login Error: Invalid username or password
+21.7.2023, 23:16:22 - INFO - Req was made | /
+21.7.2023, 23:16:22 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 23:16:22 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 23:16:37 - DEBUG - auth.service - login with username: dbd
+21.7.2023, 23:16:37 - INFO - User login:  | {"_id":"64bade2607bfc91c01d49bb5","username":"dbd","fullname":"din ben dor","score":0}
+21.7.2023, 23:18:45 - INFO - Req was made | /
+21.7.2023, 23:18:45 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 23:18:45 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 23:18:55 - INFO - Req was made | /
+21.7.2023, 23:18:55 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 23:18:55 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 23:19:00 - DEBUG - auth.service - login with username: dbd
+21.7.2023, 23:19:00 - INFO - User login:  | {"_id":"64bade2607bfc91c01d49bb5","username":"dbd","fullname":"din ben dor","score":0}
+21.7.2023, 23:19:30 - INFO - Req was made | /
+21.7.2023, 23:19:30 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 23:19:30 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 23:19:40 - INFO - Req was made | /
+21.7.2023, 23:19:40 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 23:19:40 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 23:19:49 - INFO - Req was made | /
+21.7.2023, 23:19:49 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 23:19:49 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 23:20:05 - INFO - Req was made | /
+21.7.2023, 23:20:05 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 23:20:05 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 23:20:14 - INFO - Req was made | /
+21.7.2023, 23:20:14 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 23:20:14 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 23:20:59 - DEBUG - auth.service - login with username: dbd
+21.7.2023, 23:20:59 - INFO - User login:  | {"_id":"64bade2607bfc91c01d49bb5","username":"dbd","fullname":"din ben dor","score":0}
+21.7.2023, 23:21:11 - INFO - Req was made | /
+21.7.2023, 23:21:11 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 23:21:11 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 23:22:33 - DEBUG - auth.service - login with username: dbd
+21.7.2023, 23:22:33 - INFO - User login:  | {"_id":"64bade2607bfc91c01d49bb5","username":"dbd","fullname":"din ben dor","score":0}
+21.7.2023, 23:22:58 - INFO - Req was made | /
+21.7.2023, 23:22:58 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 23:22:58 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 23:23:16 - DEBUG - auth.service - login with username: dbd
+21.7.2023, 23:23:16 - INFO - User login:  | {"_id":"64bade2607bfc91c01d49bb5","username":"dbd","fullname":"din ben dor","score":0}
+21.7.2023, 23:24:01 - DEBUG - auth.service - login with username: dbd
+21.7.2023, 23:24:01 - INFO - User login:  | {"_id":"64bade2607bfc91c01d49bb5","username":"dbd","fullname":"din ben dor","score":0}
+21.7.2023, 23:24:13 - DEBUG - auth.service - login with username: dbd
+21.7.2023, 23:24:13 - INFO - User login:  | {"_id":"64bade2607bfc91c01d49bb5","username":"dbd","fullname":"din ben dor","score":0}
+21.7.2023, 23:25:15 - DEBUG - auth.service - login with username: dbd
+21.7.2023, 23:25:15 - INFO - User login:  | {"_id":"64bade2607bfc91c01d49bb5","username":"dbd","fullname":"din ben dor","score":0}
+21.7.2023, 23:25:33 - DEBUG - auth.service - login with username: dbd
+21.7.2023, 23:25:33 - INFO - User login:  | {"_id":"64bade2607bfc91c01d49bb5","username":"dbd","fullname":"din ben dor","score":0}
+21.7.2023, 23:25:38 - DEBUG - {"title":"","status":"all","labels":["On wheels"],"type":"title","direction":"1"}
+21.7.2023, 23:25:38 - INFO - Req was made | /
+21.7.2023, 23:25:38 - DEBUG - Getting Toys | {"title":"","status":"all","labels":["On wheels"],"type":"title","direction":"1"}
+21.7.2023, 23:25:40 - INFO - Req was made | /
+21.7.2023, 23:25:40 - DEBUG - {"title":"","status":"all","labels":["Box game"],"type":"title","direction":"1"}
+21.7.2023, 23:25:40 - DEBUG - Getting Toys | {"title":"","status":"all","labels":["Box game"],"type":"title","direction":"1"}
+21.7.2023, 23:25:45 - INFO - Req was made | /
+21.7.2023, 23:25:45 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 23:25:45 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 23:25:51 - INFO - Req was made | /
+21.7.2023, 23:25:51 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 23:25:51 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 23:25:55 - INFO - Req was made | /
+21.7.2023, 23:25:55 - DEBUG - {"title":"","status":"all","type":"title","direction":"-1"}
+21.7.2023, 23:25:55 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"-1"}
+21.7.2023, 23:25:58 - INFO - Req was made | /
+21.7.2023, 23:25:58 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 23:25:58 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 23:26:51 - INFO - Req was made | /
+21.7.2023, 23:26:51 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 23:26:51 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 23:26:56 - INFO - Req was made | /
+21.7.2023, 23:26:56 - DEBUG - {"title":"","status":"all","type":"title","direction":"-1"}
+21.7.2023, 23:26:56 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"-1"}
+21.7.2023, 23:26:58 - INFO - Req was made | /
+21.7.2023, 23:26:58 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 23:26:58 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 23:29:01 - INFO - Req was made | /
+21.7.2023, 23:29:01 - DEBUG - {"title":"","status":"outOfStock","type":"title","direction":"1"}
+21.7.2023, 23:29:01 - DEBUG - Getting Toys | {"title":"","status":"outOfStock","type":"title","direction":"1"}
+21.7.2023, 23:29:10 - INFO - Req was made | /
+21.7.2023, 23:29:10 - DEBUG - Getting Toys | {"title":"","status":"inStock","type":"title","direction":"1"}
+21.7.2023, 23:29:10 - DEBUG - {"title":"","status":"inStock","type":"title","direction":"1"}
+21.7.2023, 23:31:13 - INFO - Req was made | /
+21.7.2023, 23:31:13 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+21.7.2023, 23:31:13 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 0:06:17 - DEBUG - auth.service - signup with username: yonic, fullname: yoni cohen
+22.7.2023, 0:06:17 - DEBUG - auth.route - new account created: {"username":"yonic","password":"$2b$10$AOiCaDqGEqJZ1WByAiddde285z150ExoU8S2n7k2h3UnvheJVwN8.","fullname":"yoni cohen","score":0,"_id":"64baf34907bfc91c01d49bb6"}
+22.7.2023, 0:06:17 - DEBUG - auth.service - login with username: yonic
+22.7.2023, 0:06:27 - INFO - Req was made | /
+22.7.2023, 0:06:27 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 0:06:27 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 0:07:16 - INFO - server.js loaded...
+22.7.2023, 0:07:16 - INFO - Server is running on port: 3030
+22.7.2023, 0:07:32 - DEBUG - auth.service - signup with username: dedid, fullname: dedi dado
+22.7.2023, 0:07:32 - DEBUG - auth.route - new account created: {"username":"dedid","password":"$2b$10$4kXwrHFlUzwP9FCh5yyIsOO9cW0VxhZMhjjWluj3NkT1/Zl87xFve","fullname":"dedi dado","score":0,"_id":"64baf394a96f896f015ff4c0"}
+22.7.2023, 0:07:32 - ERROR - Failed to signup ReferenceError: user is not defined
+22.7.2023, 0:07:34 - INFO - Req was made | /
+22.7.2023, 0:07:34 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 0:07:34 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 0:07:40 - DEBUG - auth.service - login with username: dedid
+22.7.2023, 0:07:40 - INFO - User login:  | {"_id":"64baf394a96f896f015ff4c0","username":"dedid","fullname":"dedi dado","score":0}
+22.7.2023, 0:09:36 - INFO - server.js loaded...
+22.7.2023, 0:09:36 - INFO - Server is running on port: 3030
+22.7.2023, 0:09:58 - INFO - Req was made | /
+22.7.2023, 0:09:58 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 0:09:58 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 0:10:06 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 0:10:06 - INFO - Req was made | /
+22.7.2023, 0:10:06 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 0:10:15 - DEBUG - auth.service - login with username: dedid
+22.7.2023, 0:10:15 - ERROR - Failed to Login Error: Invalid username or password
+22.7.2023, 0:10:15 - INFO - Req was made | /
+22.7.2023, 0:10:15 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 0:10:15 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 0:10:29 - DEBUG - auth.service - signup with username: dbd, fullname: din ben dor
+22.7.2023, 0:10:29 - DEBUG - auth.route - new account created: {"username":"dbd","password":"$2b$10$M39by/rAi9MnWBR.wqWr9OO5k2dbAxiqr3YNOspBeZm740RN4OZKy","fullname":"din ben dor","score":0,"_id":"64baf445dc6ecdb6604166d2"}
+22.7.2023, 0:10:29 - ERROR - Failed to signup ReferenceError: user is not defined
+22.7.2023, 0:10:37 - DEBUG - auth.service - login with username: dbd
+22.7.2023, 0:10:37 - INFO - User login:  | {"_id":"64baf445dc6ecdb6604166d2","username":"dbd","fullname":"din ben dor","score":0}
+22.7.2023, 0:11:04 - INFO - server.js loaded...
+22.7.2023, 0:11:04 - INFO - Server is running on port: 3030
+22.7.2023, 0:11:08 - INFO - server.js loaded...
+22.7.2023, 0:11:08 - INFO - Server is running on port: 3030
+22.7.2023, 0:11:15 - INFO - server.js loaded...
+22.7.2023, 0:11:15 - INFO - Server is running on port: 3030
+22.7.2023, 0:11:20 - INFO - server.js loaded...
+22.7.2023, 0:11:20 - INFO - Server is running on port: 3030
+22.7.2023, 0:11:56 - DEBUG - auth.service - signup with username: dbd, fullname: dbd
+22.7.2023, 0:11:56 - DEBUG - auth.route - new account created: {"username":"dbd","password":"$2b$10$h8r/8ZSzUNIqfrWQlBQw5eAI.lNaqzeeBpkqTDDxzYFSXVfRFtvoG","fullname":"dbd","_id":"64baf49c3ae14d77d60e8228"}
+22.7.2023, 0:11:56 - ERROR - Failed to signup ReferenceError: user is not defined
+22.7.2023, 0:12:24 - INFO - server.js loaded...
+22.7.2023, 0:12:24 - INFO - Server is running on port: 3030
+22.7.2023, 0:12:27 - DEBUG - auth.service - signup with username: dbd, fullname: dbd
+22.7.2023, 0:12:27 - ERROR - cannot insert user | Error: Username taken
+22.7.2023, 0:12:27 - ERROR - Failed to signup Error: Username taken
+22.7.2023, 0:12:45 - DEBUG - auth.service - signup with username: dbd32, fullname: dbd
+22.7.2023, 0:12:45 - DEBUG - auth.route - new account created: {"username":"dbd32","password":"$2b$10$CO/v34sMttlOFbbv.5xP9.KrPS5O349PomwOAGVj3RNu/C.cAoTze","fullname":"dbd","_id":"64baf4cdbc2851c1c6097562"}
+22.7.2023, 0:12:45 - ERROR - Failed to signup ReferenceError: user is not defined
+22.7.2023, 0:13:00 - INFO - server.js loaded...
+22.7.2023, 0:13:00 - INFO - Server is running on port: 3030
+22.7.2023, 0:13:01 - INFO - server.js loaded...
+22.7.2023, 0:13:01 - INFO - Server is running on port: 3030
+22.7.2023, 0:13:22 - INFO - server.js loaded...
+22.7.2023, 0:13:22 - INFO - Server is running on port: 3030
+22.7.2023, 0:13:27 - INFO - server.js loaded...
+22.7.2023, 0:13:27 - INFO - Server is running on port: 3030
+22.7.2023, 0:14:08 - INFO - server.js loaded...
+22.7.2023, 0:14:08 - INFO - Server is running on port: 3030
+22.7.2023, 0:14:20 - INFO - server.js loaded...
+22.7.2023, 0:14:20 - INFO - Server is running on port: 3030
+22.7.2023, 0:14:44 - INFO - server.js loaded...
+22.7.2023, 0:14:44 - INFO - Server is running on port: 3030
+22.7.2023, 0:14:56 - DEBUG - auth.service - signup with username: dbd93, fullname: din ben dor
+22.7.2023, 0:14:56 - DEBUG - auth.route - new account created: {"username":"dbd93","password":"$2b$10$jjUz.DI14n2hie9Z4ZU6jOdS5wLA8WhCqJADeCYKbiGi9UDekJELO","fullname":"din ben dor","isAdmin":false,"_id":"64baf55070f6bea2098d294c"}
+22.7.2023, 0:14:56 - ERROR - Failed to signup ReferenceError: user is not defined
+22.7.2023, 0:15:19 - DEBUG - auth.service - login with username: dbd93
+22.7.2023, 0:15:19 - INFO - User login:  | {"_id":"64baf55070f6bea2098d294c","username":"dbd93","fullname":"din ben dor","isAdmin":false}
+22.7.2023, 0:15:53 - INFO - Req was made | /
+22.7.2023, 0:15:53 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 0:15:53 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 0:15:53 - INFO - Req was made | /
+22.7.2023, 0:15:53 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 0:15:53 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 0:16:03 - DEBUG - auth.service - login with username: dbd93
+22.7.2023, 0:16:03 - INFO - User login:  | {"_id":"64baf55070f6bea2098d294c","username":"dbd93","fullname":"din ben dor","isAdmin":true}
+22.7.2023, 0:20:05 - INFO - Req was made | /
+22.7.2023, 0:20:05 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 0:20:05 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 0:20:09 - INFO - Req was made | /
+22.7.2023, 0:20:09 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 0:20:09 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 0:20:16 - INFO - Req was made | /
+22.7.2023, 0:20:16 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 0:20:16 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 0:20:29 - INFO - Req was made | /
+22.7.2023, 0:20:29 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 0:20:29 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 0:20:33 - INFO - Req was made | /
+22.7.2023, 0:20:33 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 0:20:33 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 0:22:46 - INFO - Req was made | /
+22.7.2023, 0:22:46 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 0:22:46 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 0:23:12 - DEBUG - auth.service - login with username: dbd93
+22.7.2023, 0:23:12 - INFO - User login:  | {"_id":"64baf55070f6bea2098d294c","username":"dbd93","fullname":"din ben dor","isAdmin":true}
+22.7.2023, 0:23:28 - DEBUG - auth.service - signup with username: motim, fullname: motimomo
+22.7.2023, 0:23:28 - DEBUG - auth.route - new account created: {"username":"motim","password":"$2b$10$xG85PPhAydtNvshYI5kgfOrldVKLlVQOK8Vt8ES9SrrTb8uNCFePi","fullname":"motimomo","isAdmin":false,"_id":"64baf75070f6bea2098d294d"}
+22.7.2023, 0:23:28 - ERROR - Failed to signup ReferenceError: user is not defined
+22.7.2023, 0:23:32 - DEBUG - auth.service - login with username: motim
+22.7.2023, 0:23:33 - INFO - User login:  | {"_id":"64baf75070f6bea2098d294d","username":"motim","fullname":"motimomo","isAdmin":false}
+22.7.2023, 0:24:46 - INFO - Req was made | /
+22.7.2023, 0:24:46 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 0:24:46 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 0:25:02 - DEBUG - auth.service - login with username: dbd93
+22.7.2023, 0:25:03 - INFO - User login:  | {"_id":"64baf55070f6bea2098d294c","username":"dbd93","fullname":"din ben dor","isAdmin":true}
+22.7.2023, 0:25:13 - DEBUG - auth.service - login with username: motim
+22.7.2023, 0:25:13 - INFO - User login:  | {"_id":"64baf75070f6bea2098d294d","username":"motim","fullname":"motimomo","isAdmin":false}
+22.7.2023, 0:27:15 - INFO - server.js loaded...
+22.7.2023, 0:27:15 - INFO - Server is running on port: 3030
+22.7.2023, 0:27:49 - INFO - server.js loaded...
+22.7.2023, 0:27:49 - INFO - Server is running on port: 3030
+22.7.2023, 0:27:59 - DEBUG - auth.service - login with username: dbd93
+22.7.2023, 0:27:59 - INFO - User login:  | {"_id":"64baf55070f6bea2098d294c","username":"dbd93","fullname":"din ben dor","isAdmin":true}
+22.7.2023, 0:28:00 - INFO - Req was made | /
+22.7.2023, 0:28:00 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 0:28:00 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 0:28:08 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 0:28:08 - INFO - Req was made | /
+22.7.2023, 0:28:08 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 0:28:10 - INFO - Req was made | /
+22.7.2023, 0:28:10 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 0:28:10 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 0:29:08 - INFO - server.js loaded...
+22.7.2023, 0:29:08 - INFO - Server is running on port: 3030
+22.7.2023, 0:29:15 - INFO - Req was made | /
+22.7.2023, 0:29:15 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 0:29:15 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 0:29:17 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 0:29:17 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 0:29:17 - INFO - Req was made | /
+22.7.2023, 0:29:21 - INFO - Req was made | /
+22.7.2023, 0:29:21 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 0:29:21 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 0:29:22 - INFO - Req was made | /
+22.7.2023, 0:29:22 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 0:29:22 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 0:29:24 - INFO - Req was made | /
+22.7.2023, 0:29:24 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 0:29:24 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 0:29:26 - INFO - Req was made | /
+22.7.2023, 0:29:26 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 0:29:26 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 0:29:44 - DEBUG - auth.service - login with username: motim
+22.7.2023, 0:29:44 - INFO - User login:  | {"_id":"64baf75070f6bea2098d294d","username":"motim","fullname":"motimomo","isAdmin":false}
+22.7.2023, 0:29:46 - WARN - motimomoattempted to perform admin action
+22.7.2023, 0:29:46 - INFO - Req was made | /
+22.7.2023, 0:29:46 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 0:29:46 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 0:30:43 - DEBUG - auth.service - login with username: dbd93
+22.7.2023, 0:30:43 - INFO - User login:  | {"_id":"64baf55070f6bea2098d294c","username":"dbd93","fullname":"din ben dor","isAdmin":true}
+22.7.2023, 1:08:49 - INFO - server.js loaded...
+22.7.2023, 1:08:49 - INFO - Server is running on port: 3030
+22.7.2023, 1:17:42 - INFO - server.js loaded...
+22.7.2023, 1:17:42 - INFO - Server is running on port: 3030
+22.7.2023, 1:17:52 - INFO - Server is running on port: 3030
+22.7.2023, 1:17:52 - INFO - server.js loaded...
+22.7.2023, 1:18:53 - INFO - Req was made | /
+22.7.2023, 1:18:53 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 1:18:53 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 1:18:58 - INFO - Req was made | /
+22.7.2023, 1:18:58 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 1:18:58 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 1:19:03 - INFO - Req was made | /
+22.7.2023, 1:19:03 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 1:19:03 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 1:19:04 - INFO - Req was made | /
+22.7.2023, 1:19:04 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 1:19:04 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 1:19:05 - INFO - Req was made | /
+22.7.2023, 1:19:05 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 1:19:05 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 1:19:58 - INFO - server.js loaded...
+22.7.2023, 1:19:58 - INFO - Server is running on port: 3030
+22.7.2023, 1:21:20 - INFO - Req was made | /
+22.7.2023, 1:21:20 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 1:21:20 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 1:21:27 - INFO - Req was made | /
+22.7.2023, 1:21:27 - DEBUG - {"title":"","status":"all","type":"price","direction":"1"}
+22.7.2023, 1:21:27 - DEBUG - Getting Toys | {"title":"","status":"all","type":"price","direction":"1"}
+22.7.2023, 1:21:37 - INFO - Req was made | /
+22.7.2023, 1:21:37 - DEBUG - Getting Toys | {"title":"","status":"all","type":"createdAt","direction":"1"}
+22.7.2023, 1:21:37 - DEBUG - {"title":"","status":"all","type":"createdAt","direction":"1"}
+22.7.2023, 1:21:43 - INFO - Req was made | /
+22.7.2023, 1:21:43 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 1:21:43 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 1:23:43 - INFO - Req was made | /
+22.7.2023, 1:23:43 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 1:23:43 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 1:35:08 - INFO - Req was made | /
+22.7.2023, 1:35:08 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 1:35:08 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 1:41:46 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 1:41:46 - INFO - Req was made | /
+22.7.2023, 1:41:46 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 1:42:34 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 1:42:34 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 1:42:34 - INFO - Req was made | /
+22.7.2023, 2:23:13 - INFO - server.js loaded...
+22.7.2023, 2:23:13 - INFO - Server is running on port: 3030
+22.7.2023, 2:30:08 - INFO - Req was made | /
+22.7.2023, 2:30:08 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 2:30:08 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 2:30:39 - INFO - server.js loaded...
+22.7.2023, 2:30:39 - INFO - Server is running on port: 3030
+22.7.2023, 2:32:24 - INFO - server.js loaded...
+22.7.2023, 2:32:24 - INFO - Server is running on port: 3030
+22.7.2023, 2:38:25 - INFO - server.js loaded...
+22.7.2023, 2:38:25 - INFO - Server is running on port: 3030
+22.7.2023, 2:51:05 - INFO - Req was made | /
+22.7.2023, 2:51:05 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 2:51:05 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 3:13:54 - INFO - Req was made | /
+22.7.2023, 3:13:54 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 3:13:54 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 3:14:03 - INFO - Req was made | /
+22.7.2023, 3:14:03 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 3:14:03 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 3:15:00 - INFO - Req was made | /
+22.7.2023, 3:15:00 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 3:15:00 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 3:15:23 - INFO - Req was made | /
+22.7.2023, 3:15:23 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 3:15:23 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 3:15:40 - INFO - Req was made | /
+22.7.2023, 3:15:40 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 3:15:40 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 3:16:27 - INFO - Req was made | /
+22.7.2023, 3:16:27 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 3:16:27 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 3:17:05 - INFO - Req was made | /
+22.7.2023, 3:17:05 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 3:17:05 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 3:17:37 - INFO - Req was made | /
+22.7.2023, 3:17:37 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 3:17:37 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 3:18:08 - INFO - Req was made | /
+22.7.2023, 3:18:08 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 3:18:08 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 3:18:14 - ERROR - cannot add toy msg undefined | BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+22.7.2023, 3:18:14 - ERROR - Failed to update toy | BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+22.7.2023, 3:18:26 - INFO - Req was made | /
+22.7.2023, 3:18:26 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 3:18:26 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 3:21:46 - INFO - Req was made | /
+22.7.2023, 3:21:46 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 3:21:46 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 3:21:52 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 3:21:52 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 3:21:52 - INFO - Req was made | /
+22.7.2023, 3:21:57 - ERROR - cannot add toy msg undefined | BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+22.7.2023, 3:21:57 - ERROR - Failed to update toy | BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+22.7.2023, 3:23:48 - INFO - Req was made | /
+22.7.2023, 3:23:48 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 3:23:48 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 3:24:06 - INFO - Req was made | /
+22.7.2023, 3:24:06 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 3:24:06 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 3:24:18 - INFO - Req was made | /
+22.7.2023, 3:24:18 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 3:24:18 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 3:25:25 - INFO - Req was made | /
+22.7.2023, 3:25:25 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 3:25:25 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 3:26:35 - INFO - Req was made | /
+22.7.2023, 3:26:35 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 3:26:35 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 3:29:24 - INFO - Req was made | /
+22.7.2023, 3:29:24 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 3:29:24 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 3:33:02 - INFO - Req was made | /
+22.7.2023, 3:33:02 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 3:33:02 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 3:33:03 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 3:33:03 - INFO - Req was made | /
+22.7.2023, 3:33:03 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 3:33:04 - INFO - Req was made | /
+22.7.2023, 3:33:04 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 3:33:04 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 3:33:06 - INFO - Req was made | /
+22.7.2023, 3:33:06 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 3:33:06 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 3:33:07 - INFO - Req was made | /
+22.7.2023, 3:33:07 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 3:33:07 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 13:20:29 - INFO - Req was made | /
+22.7.2023, 13:20:29 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 13:20:29 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 13:29:13 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 13:29:13 - INFO - Req was made | /
+22.7.2023, 13:29:13 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 13:55:39 - INFO - Req was made | /
+22.7.2023, 13:55:39 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 13:55:39 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 14:06:34 - INFO - server.js loaded...
+22.7.2023, 14:06:34 - INFO - Server is running on port: 3030
+22.7.2023, 14:06:34 - INFO - Req was made | /
+22.7.2023, 14:06:34 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+22.7.2023, 14:06:34 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+23.7.2023, 20:13:38 - INFO - server.js loaded...
+23.7.2023, 20:13:38 - INFO - Server is running on port: 3030
+23.7.2023, 20:14:31 - INFO - Req was made | /
+23.7.2023, 20:14:31 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+23.7.2023, 20:14:31 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+23.7.2023, 20:15:07 - INFO - Req was made | /
+23.7.2023, 20:15:07 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+23.7.2023, 20:15:07 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+23.7.2023, 20:15:35 - INFO - Req was made | /
+23.7.2023, 20:15:35 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+23.7.2023, 20:15:35 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+23.7.2023, 20:15:48 - INFO - Req was made | /
+23.7.2023, 20:15:48 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+23.7.2023, 20:15:48 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+23.7.2023, 20:16:15 - INFO - Req was made | /
+23.7.2023, 20:16:15 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+23.7.2023, 20:16:15 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+23.7.2023, 20:18:49 - INFO - Req was made | /
+23.7.2023, 20:18:49 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+23.7.2023, 20:18:49 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+23.7.2023, 20:18:54 - INFO - Req was made | /
+23.7.2023, 20:18:54 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+23.7.2023, 20:18:54 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+23.7.2023, 20:19:32 - INFO - Req was made | /
+23.7.2023, 20:19:32 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+23.7.2023, 20:19:32 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+23.7.2023, 20:19:42 - INFO - Req was made | /
+23.7.2023, 20:19:42 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+23.7.2023, 20:19:42 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+23.7.2023, 20:21:19 - INFO - server.js loaded...
+23.7.2023, 20:21:19 - INFO - Server is running on port: 3030
+23.7.2023, 20:21:48 - INFO - Req was made | /
+23.7.2023, 20:21:48 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+23.7.2023, 20:21:48 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+23.7.2023, 20:21:53 - INFO - server.js loaded...
+23.7.2023, 20:21:53 - INFO - Server is running on port: 3030
+23.7.2023, 20:22:48 - INFO - Req was made | /
+23.7.2023, 20:22:48 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+23.7.2023, 20:22:48 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+23.7.2023, 20:22:59 - DEBUG - auth.service - login with username: dbd93
+23.7.2023, 20:22:59 - INFO - User login:  | {"_id":"64baf55070f6bea2098d294c","username":"dbd93","fullname":"din ben dor","isAdmin":true}
+23.7.2023, 20:23:14 - INFO - Req was made | /
+23.7.2023, 20:23:14 - DEBUG - {"title":"","status":"all","type":"title","direction":"1"}
+23.7.2023, 20:23:14 - DEBUG - Getting Toys | {"title":"","status":"all","type":"title","direction":"1"}
+23.7.2023, 20:23:49 - INFO - server.js loaded...
+23.7.2023, 20:23:49 - INFO - Server is running on port: 3030

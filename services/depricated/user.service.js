@@ -63,7 +63,6 @@ function remove(userId) {
 function save({ username, password, fullname }) {
     const userToAdd = {
         _id: utilService.makeId(),
-        isAdmin: false,
         fullname,
         username,
         password

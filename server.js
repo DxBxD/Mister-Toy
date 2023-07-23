@@ -2,20 +2,26 @@ import express from 'express'
 import cookieParser from 'cookie-parser'
 import cors from 'cors'
 import path from 'path'
+import { fileURLToPath } from 'url'
+import { dirname } from 'path'
 
 import { logger } from './services/logger.service.js'
 logger.info('server.js loaded...')
 
 const app = express()
 
+// Resolve __dirname in ES6
+const __filename = fileURLToPath(import.meta.url)
+const __dirname = dirname(__filename)
+
 // Express App Config
 app.use(cookieParser())
 app.use(express.json())
-app.use(express.static('public'))
+app.use(express.static(path.join(__dirname, 'public')))
 
 if (process.env.NODE_ENV === 'production') {
     // Express serve static files on production environment
-    app.use(express.static(path.resolve(__dirname, 'public')))
+    app.use(express.static(path.join(__dirname, 'public')))
 } else {
     // Configuring CORS
     const corsOptions = {
@@ -45,7 +51,7 @@ app.use('/api/review', reviewRoutes)
 // our SPA (single page app) (the index.html file) and allow vue-router to take it from there
 
 app.get('/**', (req, res) => {
-    res.sendFile(path.resolve('public/index.html'))
+    res.sendFile(path.join(__dirname, 'public', 'index.html'))
 })
 
 const port = process.env.PORT || 3030
